@@ -12,6 +12,7 @@ Anggota Kelompok :
 4. Mufasirina Haqulianti       - 4342301029
 5. Tabina Rahmah Az-zahrawaani - 4342301023
 
+**Information project 
 E-SPMI adalah Sistem Penjaminan Mutu Internal yang diimplementasikan secara elektronik atau melalui teknologi informasi. Sistem ini dirancang untuk memonitor dan mengevaluasi berbagai aspek kinerja internal suatu lembaga atau organisasi, dengan tujuan meningkatkan mutu layanan atau produk yang diberikan.
 
 Fungsi E-SPMI:
