@@ -14,3 +14,13 @@ Nonfungsional E-SPMI:
 2. Ketersediaan: Sistem harus selalu tersedia untuk digunakan, sehingga pemantauan dan evaluasi dapat dilakukan secara kontinu.
 3. Kinerja: Kinerja E-SPMI harus memadai untuk menangani volume data dan pengguna dengan efisien tanpa mengalami penurunan performa yang signifikan.
 4. Kemudahan Penggunaan: Antarmuka pengguna dari E-SPMI harus dirancang dengan baik agar mudah digunakan oleh pengguna yang beragam.
+
+Group Information : 
+Manajer Proyek   : Iqbal Afif, A.Md.Kom
+Ketua 	         : Aldy Jhonatan Hutasoit - 4342301003
+Anggota Kelompok : 
+1. Bagas Satrio                - 4342301028
+2. Einstein                    - 4342301020
+3. Juwita Cahya Safira         - 4342301006
+4. Mufasirina Haqulianti       - 4342301029
+5. Tabina Rahmah Az-zahrawaani - 4342301023
