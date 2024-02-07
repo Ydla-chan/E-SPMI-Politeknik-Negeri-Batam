@@ -1,5 +1,5 @@
 # E-SPMI-Politekni-Negeri-Batam
-Group Information : 
+**Group Information**
 
 Manajer Proyek   : Iqbal Afif, A.Md.Kom
 
